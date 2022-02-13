@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AgendaconArchivos</string>
+    <string name="nombreyape">Nombre</string>
+    <string name="direcciones">Direccion</string>
+    <string name="correos">Correo</string>
+    <string name="telefonos">Telefono</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_ver">Ver</string>
+    <string name="btn_anterior">Anterior</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_modifica">Modificar</string>
+</resources>
